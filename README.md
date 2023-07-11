@@ -4,6 +4,10 @@
 # ComputerTalk
 A programming language that understands english
 
+Also checkout Computer Talk website-
+
+[Computer Talk](https://computertalk.code.blog)
+
 ComputerTalk is a python3 program That allows you to write code in a separate language which is computer talk .
 
 Check out ComputerTalkMax -
