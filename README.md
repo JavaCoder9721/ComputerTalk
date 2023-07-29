@@ -1,4 +1,4 @@
-![LOGO](logo.png)
+![LOGO](Adobe_Express_20230629_1942470_1.png)
 
 
 # ComputerTalk
