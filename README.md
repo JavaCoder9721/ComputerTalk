@@ -1,4 +1,4 @@
-
+![LOGO](logo.png)
 
 
 # ComputerTalk
