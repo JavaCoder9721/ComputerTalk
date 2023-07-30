@@ -4,6 +4,7 @@
 # ComputerTalk
 A programming language that understands english
 
+in every new release you will find a new updated readme file in the 7z then check the readme file for reference 
 Also checkout Computer Talk website-
 
 [Computer Talk](https://computertalk.code.blog)
