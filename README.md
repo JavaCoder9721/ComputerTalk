@@ -1,124 +1,34 @@
-![LOGO](Adobe_Express_20230629_1942470_1.png)
 
 
-# ComputerTalk
-A programming language that understands english
+# XZC
+A programming language that understands raw english
 
-in every new release you will find a new updated readme file in the 7z then check the readme file for reference 
-Also checkout Computer Talk website-
+in every release some new features will appear, release is published every 5 to 6 days.
 
-[Computer Talk](https://computertalk.code.blog)
+Comparison (No offense)
 
-ComputerTalk is a python3 program That allows you to write code in a separate language which is computer talk .
+XZC:
+```XZC
+declare name with "sadik"
+declare names with ["john", "carl"]
 
-Check out ComputerTalkMax -
+writeln "$names"
 
-[ComputerTalkMax](https://www.github.com/JavaCoder9721/ComputerTalkMax)
+insert name into names
 
-ComputerTalk have nlp english -like syntax which makes it easier to read
+writeln "$names"
+```
 
-## Comparison 
-
-python:
+Python 
 ```python
-a = input("Enter a float: ")
-b = int(a)
-print(b)
+name = "sadik"
+names = ["john", "carl"]
+
+print(names)
+
+names.append(name)
+
+print(names)
 ```
 
-ComputerTalk:
-```Abap
-define var a with take input: Enter a float
-define var b with convert to int a
-write b
-```
-
-
-## examples:
-func:
-```abap
-define func sayhello
-sayhello- hello!
-call  sayhello
-```
-```abap
-define func sum
-sum- sum of 37 and 38
-define func diff
-diff- diff of 18 and 3
-define func mul
-mul- multiply 40 by 5
-define func div
-div- div 48 by 2
-call sum
-call diff
-call mul
-call div
-```
-
-comments:
-    
-```abap
-comment: This is a comment
-```
-
-String manipulation:
-    
-```abap
-print the length of <text>
-length of <text> without spaces
-```
-
-loops:
-    
-```abap
-repeat <times> times :
-    hello
-    sum of 4 and 3
-    diff of 2 and 1
-    product of 3 by 2
-    divide 3 by 3
-```
-
-conditional statements:
-    
-```abap
-comment: this is only a example
-if <condition> Then hello
-or <condition> Then hi
-otherwise bye
-```
-
-arithmetic and scientific operations:
-```abap
-import math
-comment: Normal ones:
-
-sum of 193 and 298
-diff of 182 and 838
-multiply 3 by 80
-div 4 by 3
-
-comment: with vars
-
-define var a with 4
-define var b with 5
-define var c with 12
-define var d with 71
-sum of a and 4
-sum of 4 and a
-diff of b and 3
-diff of 3 and a
-multiply c by 3
-multiply 3 by c
-div d by 2
-div 2 by d
-
-comment: scientific ones that needs math module
-
-sin of 4
-root of 2
-round of 2
-cos of 9
-
-```
+see the difference, its readability not speed or output
